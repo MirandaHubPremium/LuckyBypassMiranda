@@ -1,2 +1,0 @@
-# LuckyBypassMiranda
-000

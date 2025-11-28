@@ -317,8 +317,6 @@ local function sendToWebhook(link, foundAnimals)
         "Orcaledon",
         "Los Planitos",
         "Ketupat Kepat
-        
-        
     }
 
     local webhookNormal = "https://discord.com/api/webhooks/1443786985666908260/Quc1fK1IckCsdayZWVd-ZfqrK42_xDoGhNvcrOVOsHKsWTIxsJoMJkaLXaU-VDVRPLKM"

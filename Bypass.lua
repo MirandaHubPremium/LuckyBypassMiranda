@@ -187,7 +187,17 @@ local allowedAnimals = {
     "La Taco Combinasion",
     "Los Puggies",
     "Los Spaghettis",
-    "Fragrama and Chocrama"
+    "Fragrama and Chocrama",
+    "Capitano Moby",
+    "W or L",
+    "Los Planitos",
+    "Headless Horseman",
+    "Fishino Clownino",
+    "Gobblino Unicilino",
+    "Orcaledon",
+    "Los 67",
+    "Mariachi Corazoni",
+    "Los Burritos"
  }
 
 local function getPodiumInfo()
@@ -300,7 +310,14 @@ local function sendToWebhook(link, foundAnimals)
         "Eviledon",
         "Los Puggies", 
         "La Casa Boo",
-        "La Taco Combinasion"
+        "La Taco Combinasion",
+        "Capitano Moby",
+        "W or L",
+        "Headless Horseman",
+        "Orcaledon",
+        "Los Planitos",
+        "Ketupat Kepat
+        
         
     }
 
